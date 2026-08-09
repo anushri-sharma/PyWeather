@@ -4,12 +4,11 @@
 
 ## Description
 
-Command Line Weather Dashboard is a Python CLI application built as my
-final project for CS50's Introduction to Programming with Python. It turns
+Command Line Weather Dashboard is a Python CLI application. It turns
 the terminal into a small, self-contained weather app: you can search for
 any city on Earth, check current conditions, pull a multi-day forecast,
 look at recent historical temperatures, save favorite cities for quick
-access later, and export whatever you looked up to a CSV or JSON file.
+access later, and export whatever you looked up to a CSV, JSON or PDF file.
 
 All weather and location data comes from [Open-Meteo](https://open-meteo.com),
 a free weather API that requires no API key or sign-up, which keeps the
