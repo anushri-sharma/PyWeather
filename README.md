@@ -1,6 +1,5 @@
 # Command Line Weather Dashboard
 
-#### Video Demo: <URL HERE>
 
 ## Description
 
