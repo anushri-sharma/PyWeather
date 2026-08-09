@@ -137,3 +137,5 @@ Then follow the on-screen menu.
   city within a short window.
 - Add a `--city` command-line flag (via `argparse`) for a non-interactive,
   scriptable mode alongside the interactive menu.
+
+<img width="829" height="662" alt="Screenshot 2026-08-09 at 9 55 37 PM" src="https://github.com/user-attachments/assets/c891a7cd-51ea-47c3-a660-a2108ae86e00" />
