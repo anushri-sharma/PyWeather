@@ -1,6 +1,5 @@
 """
 Weather CLI Dashboard
-CS50's Introduction to Programming with Python - Final Project
 
 A command-line weather dashboard that lets users:
   - Search for any city in the world
