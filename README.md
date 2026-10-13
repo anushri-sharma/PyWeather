@@ -1,10 +1,10 @@
 # Command Line Weather Dashboard
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/wvJANtbVze4
 
 ## Description
 
-Command Line Weather Dashboard is a Python CLI application. It turns
+Command Line Weather Dashboard is a Python CLI application build in python. It turns
 the terminal into a small, self-contained weather app: you can search for
 any city on Earth, check current conditions, pull a multi-day forecast,
 look at recent historical temperatures, save favorite cities for quick
